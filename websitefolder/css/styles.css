@@ -14,6 +14,7 @@ h1{
 .my-brand{
   font-size: 18px;
   text-transform: lowercase;
+  text-align: justify;
   color: blue;
   font-family: sans-serif;
 }
