@@ -1,0 +1,19 @@
+
+p {
+  color:red;
+}
+
+h1{
+  font-size: 60px
+}
+
+#server-side{
+  color: purple;
+}
+
+.my-brand{
+  font-size: 18px;
+  font-style: italic;
+  text-transform: lowercase;
+  color: red;
+}
